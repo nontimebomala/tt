@@ -1,0 +1,1 @@
+gogocode -s vue-draggable-resizable.vue -t gogocode-plugin-vue -o vue-draggable-resizable-vue3.vue
